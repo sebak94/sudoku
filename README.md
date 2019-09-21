@@ -6,6 +6,7 @@ This is a Client-Server Sudoku game made in C.
 
 ## Run
 >`tp server 3000`
+
 >`tp client localhost 3000`
 
 ## Commands
