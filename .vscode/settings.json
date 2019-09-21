@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "socket_t.h": "c",
+        "stdio.h": "c",
+        "errno.h": "c",
+        "string.h": "c",
+        "type_traits": "c",
+        "protocol_to_client.h": "c",
+        "socket.h": "c"
+    }
+}
